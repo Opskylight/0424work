@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Trawr</string>
+    <string name="strname">Name</string>
+    <string name="strheight">Height</string>
+    <string name="strbutton">Submit</string>
+    <string name="strweight">Weight</string>
+    <string name="strnextpage">nextPage</string>
+    <string name="strweightless">too low</string>
+    <string name="strnormalweight">great</string>
+    <string name="stroverweight">to high</string>
+    <string name="strbmi">Your BMI is</string>
+</resources>

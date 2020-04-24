@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trawr</string>
+    <string name="strname">姓名</string>
+    <string name="strheight">身高</string>
+    <string name="strweight">體重</string>
+    <string name="strbutton">確定</string>
+    <string name="strnextpage">下一頁</string>
+    <string name="strweightless">體重過輕</string>
+    <string name="strnormalweight">正常體重</string>
+    <string name="stroverweight">體重過重</string>
+    <string name="strbmi">你的BMI是</string>
+</resources>
